@@ -72,7 +72,5 @@ Esse projeto vai ser direcionado para 'noticas', as principais noticas do brasil
         </div>
     </div>
     <footer>
-        <p>&copy; 2024 Principais Notícias do Brasil</p>
-    </footer>
 </body>
 </html>

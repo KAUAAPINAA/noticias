@@ -1,5 +1,5 @@
 # Noticias
-Esse projeto vai ser direcionado para 'noticas', as principais noticas do brasil e as mais revelevancia internacionais.
+Esse projeto vai ser direcionado para 'noticas', as principais noticas do brasil e as mais revelevnates internacionais.
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
